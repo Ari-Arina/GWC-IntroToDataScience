@@ -1,3 +1,20 @@
+# Girls Who Code 2026 Summer Pathways
+## Data Science + AI Track
+### Course 1: Intro to Data Science
+[Demo Link with Code](https://hq.girlswhocode.com/TextJam/py/1625/bf053407)
+
+This project uses a simplified version of [Rotten Tomatoes movies and critic reviews dataset by Stefano Leone](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset) on Kaggle. Kaggle is a place where Data Scientist can upload their own data or get data uploaded by others around the world. Do note that anyone can upload their data there, so you need to double check for credibility.
+
+This project is called **"Talking Data: Comparing Favorites."** It is a comparison analysis of critic and audience rating between one of my favorite movies - The Vow - and other movies in the genre "drama."
+
+Other than the code, the course took around 3hrs and 10m (add ons, credibility analysis, python introduction, GWC Spotlight, and different iterations of the project). Furthermore, notes on the course were made and can be found in my notion: [Notion Girls Who Code Notes](https://app.notion.com/p/Girls-Who-Code-Pathways-0aa9f0712d7e83feac4081597009fb9c?source=copy_link).
+
+You can also check out the different certificates I got from Girls Who Code here: [HQ Profile](https://hq.girlswhocode.com/profile/928958).
+
+The following is Girls Who Code's README from the project:
+
+---
+
 # Talking Data: Comparing Favorites Starter Code
 Fork this project to get started on the project.
 
